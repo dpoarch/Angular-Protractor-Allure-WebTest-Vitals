@@ -1,0 +1,82 @@
+{
+  "uid" : "2a2ebd1e6d3c0657",
+  "name" : "it should check database records",
+  "fullName" : "Testing out Authentication.it should check database records",
+  "historyId" : "c6f51b95ab71e2e9fabc8b913f1b823",
+  "time" : {
+    "start" : 1650993181398,
+    "stop" : 1650993195682,
+    "duration" : 14284
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8f9b7fd754e519e7",
+      "name" : "Screenshot",
+      "source" : "8f9b7fd754e519e7.png",
+      "type" : "image/png",
+      "size" : 340935
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should check database records"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "738b3d26dd9f2313",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991998230,
+        "stop" : 1650992012521,
+        "duration" : 14291
+      }
+    }, {
+      "uid" : "2d713f1b51fc4075",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991135656,
+        "stop" : 1650991149964,
+        "duration" : 14308
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a2ebd1e6d3c0657.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "561f1fe15778b103",
+  "name" : "it should register account",
+  "fullName" : "Testing out Authentication.it should register account",
+  "historyId" : "17301d70fbe46194290e0e3b85ef16e5",
+  "time" : {
+    "start" : 1650991122821,
+    "stop" : 1650991135656,
+    "duration" : 12835
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31b65c3700f60698",
+      "name" : "Screenshot",
+      "source" : "31b65c3700f60698.png",
+      "type" : "image/png",
+      "size" : 18061
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should register account"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "561f1fe15778b103.json",
+  "parameterValues" : [ ]
+}

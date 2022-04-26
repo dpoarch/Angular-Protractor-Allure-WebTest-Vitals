@@ -1,0 +1,82 @@
+{
+  "uid" : "f5ce976701640bf3",
+  "name" : "it should logout admin account",
+  "fullName" : "Testing out Authentication.it should logout admin account",
+  "historyId" : "f0160a9d9440d305b0fce44aa762c42f",
+  "time" : {
+    "start" : 1650993205974,
+    "stop" : 1650993210458,
+    "duration" : 4484
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "446b1c45d218ca82",
+      "name" : "Screenshot",
+      "source" : "446b1c45d218ca82.png",
+      "type" : "image/png",
+      "size" : 13748
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should logout admin account"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1af9bd58176e15b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650992022531,
+        "stop" : 1650992026863,
+        "duration" : 4332
+      }
+    }, {
+      "uid" : "20e30918b4fcbf50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991160083,
+        "stop" : 1650991164149,
+        "duration" : 4066
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5ce976701640bf3.json",
+  "parameterValues" : [ ]
+}

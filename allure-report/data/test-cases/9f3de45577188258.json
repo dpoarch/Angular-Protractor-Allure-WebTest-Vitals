@@ -1,0 +1,64 @@
+{
+  "uid" : "9f3de45577188258",
+  "name" : "it should check register forms as required",
+  "fullName" : "Testing Form Validations.it should check register forms as required",
+  "historyId" : "6906bd168abacd234f81e530a28c300e",
+  "time" : {
+    "start" : 1650991099527,
+    "stop" : 1650991105878,
+    "duration" : 6351
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8bf6cbea386f7def",
+      "name" : "Screenshot",
+      "source" : "8bf6cbea386f7def.png",
+      "type" : "image/png",
+      "size" : 24573
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should check register forms as required"
+  }, {
+    "name" : "package",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f3de45577188258.json",
+  "parameterValues" : [ ]
+}

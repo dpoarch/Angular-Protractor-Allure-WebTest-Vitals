@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 27 01:13:15 SGT 2022","Wed Apr 27 01:13:25 SGT 2022","10292","","Testing out Authentication","","Testing out Authentication","it should login as admin","it should login as admin",""
+"passed","Wed Apr 27 01:12:32 SGT 2022","Wed Apr 27 01:12:38 SGT 2022","6100","","Testing Form Validations","","Testing Form Validations","it should check login forms as required","it should check login forms as required",""
+"passed","Wed Apr 27 01:12:49 SGT 2022","Wed Apr 27 01:13:01 SGT 2022","12269","","Testing out Authentication","","Testing out Authentication","it should register account","it should register account",""
+"failed","Wed Apr 27 01:12:26 SGT 2022","Wed Apr 27 01:12:32 SGT 2022","6336","","Testing Form Validations","","Testing Form Validations","it should check register forms as required","it should check register forms as required",""
+"passed","Wed Apr 27 01:13:25 SGT 2022","Wed Apr 27 01:13:30 SGT 2022","4484","","Testing out Authentication","","Testing out Authentication","it should logout admin account","it should logout admin account",""
+"passed","Wed Apr 27 01:13:01 SGT 2022","Wed Apr 27 01:13:15 SGT 2022","14284","","Testing out Authentication","","Testing out Authentication","it should check database records","it should check database records",""
+"passed","Wed Apr 27 01:12:38 SGT 2022","Wed Apr 27 01:12:49 SGT 2022","10344","","Testing Form Validations","","Testing Form Validations","it should check validations","it should check validations",""

@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650991985840' stop='1650992026865'>
+    <name>Testing out Authentication</name>
+    <title>Testing out Authentication</title>
+    <test-cases>
+        <test-case start='1650991985841' status='failed' stop='1650991998230'>
+            <name>it should register account</name>
+            <title>it should register account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='44387e69-5ea2-4051-bf3a-f4858ad2db0c-attachment.png' type='image/png' size='26439'/>
+            </attachments>
+            <failure>
+                <message>Expected [  ] to match 'Your registration is successful!'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\test\spec_authentication.js:17:23)
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1650991998230' status='passed' stop='1650992012521'>
+            <name>it should check database records</name>
+            <title>it should check database records</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f0a640e7-7a77-4128-b4cf-5d10cf4a527d-attachment.png' type='image/png' size='332158'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650992012521' status='passed' stop='1650992022531'>
+            <name>it should login as admin</name>
+            <title>it should login as admin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fc1350e7-bec7-4b5b-b9ba-ac3b5a8ea741-attachment.png' type='image/png' size='19404'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650992022531' status='passed' stop='1650992026863'>
+            <name>it should logout admin account</name>
+            <title>it should logout admin account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a159edc2-d5a0-4daa-b706-93c13b3f6e59-attachment.png' type='image/png' size='13748'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

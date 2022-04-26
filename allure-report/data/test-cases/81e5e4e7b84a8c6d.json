@@ -1,0 +1,82 @@
+{
+  "uid" : "81e5e4e7b84a8c6d",
+  "name" : "it should check validations",
+  "fullName" : "Testing Form Validations.it should check validations",
+  "historyId" : "581a42c1cb8f8e5d2a66fbcdac9b38c1",
+  "time" : {
+    "start" : 1650993158771,
+    "stop" : 1650993169115,
+    "duration" : 10344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3821d44ebd5e58a3",
+      "name" : "Screenshot",
+      "source" : "3821d44ebd5e58a3.png",
+      "type" : "image/png",
+      "size" : 27670
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should check validations"
+  }, {
+    "name" : "package",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fd9b1c99c0dcc8c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991975358,
+        "stop" : 1650991985823,
+        "duration" : 10465
+      }
+    }, {
+      "uid" : "57ca6fcb2ccf8f16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991112088,
+        "stop" : 1650991122781,
+        "duration" : 10693
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81e5e4e7b84a8c6d.json",
+  "parameterValues" : [ ]
+}

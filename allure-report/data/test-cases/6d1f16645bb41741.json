@@ -1,0 +1,68 @@
+{
+  "uid" : "6d1f16645bb41741",
+  "name" : "it should register account",
+  "fullName" : "Testing out Authentication.it should register account",
+  "historyId" : "17301d70fbe46194290e0e3b85ef16e5",
+  "time" : {
+    "start" : 1650991985841,
+    "stop" : 1650991998230,
+    "duration" : 12389
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected [  ] to match 'Your registration is successful!'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\test\\spec_authentication.js:17:23)\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected [  ] to match 'Your registration is successful!'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\test\\spec_authentication.js:17:23)\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\nevor\\OneDrive\\Desktop\\Angular_JWT_auth\\Frontend\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c7439a6e88a5392",
+      "name" : "Screenshot",
+      "source" : "3c7439a6e88a5392.png",
+      "type" : "image/png",
+      "size" : 26439
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should register account"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d1f16645bb41741.json",
+  "parameterValues" : [ ]
+}

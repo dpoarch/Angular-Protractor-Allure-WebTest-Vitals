@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650993146332' stop='1650993169118'>
+    <name>Testing Form Validations</name>
+    <title>Testing Form Validations</title>
+    <test-cases>
+        <test-case start='1650993146334' status='failed' stop='1650993152670'>
+            <name>it should check register forms as required</name>
+            <title>it should check register forms as required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b74d7b4c-c9de-4cbd-99bf-3c820d27c8ee-attachment.png' type='image/png' size='24573'/>
+            </attachments>
+            <failure>
+                <message>Failed: expect(...).toMatch(...).toBe is not a function</message>
+                <stack-trace>TypeError: expect(...).toMatch(...).toBe is not a function
+                    at UserContext.&lt;anonymous> (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\test\spec_validations.js:13:54)
+                From: Task: Run it("it should check register forms as required") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\test\spec_validations.js:4:3)
+                    at addSpecsToSuite (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\node_modules\jasmine\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\nevor\OneDrive\Desktop\Angular_JWT_auth\Frontend\test\spec_validations.js:1:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+                    at Module.load (internal/modules/cjs/loader.js:950:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:790:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1650993152670' status='passed' stop='1650993158770'>
+            <name>it should check login forms as required</name>
+            <title>it should check login forms as required</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e75f8be5-dafd-4148-9d0e-c99c5891e532-attachment.png' type='image/png' size='22916'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650993158771' status='passed' stop='1650993169115'>
+            <name>it should check validations</name>
+            <title>it should check validations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a9a92d82-d512-4acb-9f98-41030e676861-attachment.png' type='image/png' size='27670'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

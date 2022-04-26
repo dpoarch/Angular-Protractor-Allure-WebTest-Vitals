@@ -1,0 +1,132 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Testing Form Validations",
+    "children" : [ {
+      "name" : "it should check register forms as required",
+      "uid" : "551e222da61060a0",
+      "parentUid" : "b78f54818b3643da23999e75e922b63e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1650993146334,
+        "stop" : 1650993152670,
+        "duration" : 6336
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should check login forms as required",
+      "uid" : "241b614f8945a7b1",
+      "parentUid" : "b78f54818b3643da23999e75e922b63e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993152670,
+        "stop" : 1650993158770,
+        "duration" : 6100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should check validations",
+      "uid" : "81e5e4e7b84a8c6d",
+      "parentUid" : "b78f54818b3643da23999e75e922b63e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993158771,
+        "stop" : 1650993169115,
+        "duration" : 10344
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b78f54818b3643da23999e75e922b63e"
+  }, {
+    "name" : "Testing out Authentication",
+    "children" : [ {
+      "name" : "it should register account",
+      "uid" : "841b149cfd0281db",
+      "parentUid" : "b0f9b031b33659d077bbceacf4baff15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993169128,
+        "stop" : 1650993181397,
+        "duration" : 12269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should check database records",
+      "uid" : "2a2ebd1e6d3c0657",
+      "parentUid" : "b0f9b031b33659d077bbceacf4baff15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993181398,
+        "stop" : 1650993195682,
+        "duration" : 14284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should login as admin",
+      "uid" : "7fe7779d790bff07",
+      "parentUid" : "b0f9b031b33659d077bbceacf4baff15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993195682,
+        "stop" : 1650993205974,
+        "duration" : 10292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "it should logout admin account",
+      "uid" : "f5ce976701640bf3",
+      "parentUid" : "b0f9b031b33659d077bbceacf4baff15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650993205974,
+        "stop" : 1650993210458,
+        "duration" : 4484
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b0f9b031b33659d077bbceacf4baff15"
+  } ]
+}

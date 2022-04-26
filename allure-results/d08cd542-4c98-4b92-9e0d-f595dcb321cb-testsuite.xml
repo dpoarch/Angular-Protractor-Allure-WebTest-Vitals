@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1650993169128' stop='1650993210460'>
+    <name>Testing out Authentication</name>
+    <title>Testing out Authentication</title>
+    <test-cases>
+        <test-case start='1650993169128' status='passed' stop='1650993181397'>
+            <name>it should register account</name>
+            <title>it should register account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='453162c1-39f2-4a38-922f-3f93d9765fb1-attachment.png' type='image/png' size='18061'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650993181398' status='passed' stop='1650993195682'>
+            <name>it should check database records</name>
+            <title>it should check database records</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dbc5eb7d-93b1-464a-a171-f7c7ad46fe7a-attachment.png' type='image/png' size='340935'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650993195682' status='passed' stop='1650993205974'>
+            <name>it should login as admin</name>
+            <title>it should login as admin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c8686c24-a97d-4271-8dac-b2db2ea032dc-attachment.png' type='image/png' size='19382'/>
+            </attachments>
+        </test-case>
+        <test-case start='1650993205974' status='passed' stop='1650993210458'>
+            <name>it should logout admin account</name>
+            <title>it should logout admin account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='56cca53b-1ad9-432e-ba1e-cd07e0e9f474-attachment.png' type='image/png' size='13748'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

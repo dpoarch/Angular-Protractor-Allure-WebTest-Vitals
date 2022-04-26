@@ -1,0 +1,71 @@
+[ {
+  "uid" : "2a2ebd1e6d3c0657",
+  "name" : "it should check database records",
+  "time" : {
+    "start" : 1650993181398,
+    "stop" : 1650993195682,
+    "duration" : 14284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81e5e4e7b84a8c6d",
+  "name" : "it should check validations",
+  "time" : {
+    "start" : 1650993158771,
+    "stop" : 1650993169115,
+    "duration" : 10344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5ce976701640bf3",
+  "name" : "it should logout admin account",
+  "time" : {
+    "start" : 1650993205974,
+    "stop" : 1650993210458,
+    "duration" : 4484
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "841b149cfd0281db",
+  "name" : "it should register account",
+  "time" : {
+    "start" : 1650993169128,
+    "stop" : 1650993181397,
+    "duration" : 12269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fe7779d790bff07",
+  "name" : "it should login as admin",
+  "time" : {
+    "start" : 1650993195682,
+    "stop" : 1650993205974,
+    "duration" : 10292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "241b614f8945a7b1",
+  "name" : "it should check login forms as required",
+  "time" : {
+    "start" : 1650993152670,
+    "stop" : 1650993158770,
+    "duration" : 6100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "551e222da61060a0",
+  "name" : "it should check register forms as required",
+  "time" : {
+    "start" : 1650993146334,
+    "stop" : 1650993152670,
+    "duration" : 6336
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,83 @@
+{
+  "uid" : "841b149cfd0281db",
+  "name" : "it should register account",
+  "fullName" : "Testing out Authentication.it should register account",
+  "historyId" : "17301d70fbe46194290e0e3b85ef16e5",
+  "time" : {
+    "start" : 1650993169128,
+    "stop" : 1650993181397,
+    "duration" : 12269
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c753afef980f647f",
+      "name" : "Screenshot",
+      "source" : "c753afef980f647f.png",
+      "type" : "image/png",
+      "size" : 18061
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should register account"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6d1f16645bb41741",
+      "status" : "failed",
+      "statusDetails" : "Expected [  ] to match 'Your registration is successful!'.",
+      "time" : {
+        "start" : 1650991985841,
+        "stop" : 1650991998230,
+        "duration" : 12389
+      }
+    }, {
+      "uid" : "561f1fe15778b103",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991122821,
+        "stop" : 1650991135656,
+        "duration" : 12835
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "841b149cfd0281db.json",
+  "parameterValues" : [ ]
+}

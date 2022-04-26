@@ -1,0 +1,82 @@
+{
+  "uid" : "241b614f8945a7b1",
+  "name" : "it should check login forms as required",
+  "fullName" : "Testing Form Validations.it should check login forms as required",
+  "historyId" : "7eabef8f093204d8910e34d145254f9a",
+  "time" : {
+    "start" : 1650993152670,
+    "stop" : 1650993158770,
+    "duration" : 6100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c90cad38fdd60fcd",
+      "name" : "Screenshot",
+      "source" : "c90cad38fdd60fcd.png",
+      "type" : "image/png",
+      "size" : 22916
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should check login forms as required"
+  }, {
+    "name" : "package",
+    "value" : "Testing Form Validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "30d5bf819dd1bb15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991969273,
+        "stop" : 1650991975357,
+        "duration" : 6084
+      }
+    }, {
+      "uid" : "a80d3ccd87cb6eff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650991105879,
+        "stop" : 1650991112088,
+        "duration" : 6209
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "241b614f8945a7b1.json",
+  "parameterValues" : [ ]
+}

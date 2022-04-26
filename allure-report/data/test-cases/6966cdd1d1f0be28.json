@@ -1,0 +1,64 @@
+{
+  "uid" : "6966cdd1d1f0be28",
+  "name" : "it should login as admin",
+  "fullName" : "Testing out Authentication.it should login as admin",
+  "historyId" : "10c297fe1f18820fabadc6c89da00472",
+  "time" : {
+    "start" : 1650991149964,
+    "stop" : 1650991160083,
+    "duration" : 10119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2cf35ae014483b77",
+      "name" : "Screenshot",
+      "source" : "2cf35ae014483b77.png",
+      "type" : "image/png",
+      "size" : 19270
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should login as admin"
+  }, {
+    "name" : "package",
+    "value" : "Testing out Authentication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6966cdd1d1f0be28.json",
+  "parameterValues" : [ ]
+}
